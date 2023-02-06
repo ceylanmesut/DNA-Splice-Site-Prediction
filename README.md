@@ -3,7 +3,7 @@ This repository contains the second project of Machine Learning for Healthcare c
 
 <p align="center" width="100%">
     <img width="35%" src="plots\dna2.PNG">
-    <img width="45%" src="plots\dna.PNG">
+    <img width="45%" src="plots\dna.png">
 </p>
 
 ### Project Goal
