@@ -13,6 +13,7 @@ from models.lstm import LSTM_Model
 import warnings
 warnings.filterwarnings('ignore')
 
+#%%
 
 def main(args):
     
@@ -34,7 +35,6 @@ def main(args):
     data_loader = Data_Reader_Processor(EXPERIMENT)
     X_train, X_val, X_test, y_train, y_val, y_test, max_length, vocab_size = data_loader.process_datasets(SAMPLE_AMOUNT_TRAIN, SAMPLE_AMOUNT_VAL, KMERS)
 
-    print("here")
     if MODEL_NAME == "CNN_Baseline" : 
         
         # Defining model
