@@ -50,11 +50,11 @@ Following, I developed two fundamental deep learning algorithms to tackle this p
 The performance of the networks on human dataset are demonstrated at below.
 
 <p align="center" width="100%">
-    <img width="100%" src="plots\results.PNG">
+    <img width="100%" src="plots\results.png">
     </p>
 The performance of the networks on worm dataset are demonstrated at below.
 <p align="center" width="100%">
-    <img width="100%" src="plots\results_worm.PNG">
+    <img width="100%" src="plots\results_worm.png">
 </p>
 
 ### License
